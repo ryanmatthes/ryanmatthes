@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Ryan.</h1>
-<h3 align="center">A passionate Technical Project Manager & Full-Stack Developer from California.</h3>
+<h3 align="center">Technical Product Manager | Finance × AI × Developer Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanmatthes&label=Profile%20views&color=0e75b6&style=flat" alt="ryanmatthes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vonmatthes" target="blank"><img src="https://img.shields.io/twitter/follow/vonmatthes?logo=twitter&style=for-the-badge" alt="vonmatthes" /></a> </p>
 
-- 🔭 I'm currently working on **building my GitHub portfolio and developing FilmTorch (launching soon)**
+- 🔭 I'm currently working on **FilmTorch (creator platform for indie filmmakers) and open source trading tools**
 
-- 🌱 I'm currently learning **advanced AI automation and workflow optimization**
+- 🌱 I'm currently learning **AI automation, workflow optimization, and quantitative systems**
 
-- 👯 I'm looking to collaborate on **fintech projects, AI automation, and technical team leadership opportunities**
+- 👯 I'm looking to collaborate on **fintech products, AI automation, and trading/analytics tools**
 
-- 👨‍💼 I specialize in **leading technical teams and managing complex project implementations**
+- 👨‍💼 I bring **10 years commodity trading, Series 3/30 licenses, and a CS degree to product development**
 
 - 👨‍💻 All of my business projects are available at [https://www.ryanmatthes.com/](https://www.ryanmatthes.com/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ryan.matthes@gmail.com**
 
-- ⚡ Fun fact **I'm a single digit handicap golfer and former professional poker player**
+- ⚡ Fun fact **Single-digit handicap golfer and former professional poker player (2004-2014)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +52,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Backend & Frameworks:</h4>
@@ -61,7 +60,6 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
