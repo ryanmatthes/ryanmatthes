@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my business projects are available at [https://www.ryanmatthes.com/](https://www.ryanmatthes.com/)
 
-- 📝 I regularly write articles on [https://www.ryanmatthes.com/mindlab](https://www.ryanmatthes.com/mindlab)
+- 📝 I regularly write articles on [https://www.ryanmatthes.com/posts](https://www.ryanmatthes.com/posts)
 
 - 📫 How to reach me **ryan.matthes@gmail.com**
 
