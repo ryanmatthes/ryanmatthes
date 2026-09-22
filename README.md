@@ -11,7 +11,7 @@
 
 - 👯 I'm looking to collaborate on **fintech products, AI automation, and trading/analytics tools**
 
-- 👨‍💼 I bring **10 years commodity trading, Series 3/30 licenses, and a CS degree to product development**
+- 👨‍💼 I bring **10 years commodity trading, Former Series 3/30 licensee, and a CS degree to product development**
 
 - 👨‍💻 All of my business projects are available at [https://www.ryanmatthes.com/](https://www.ryanmatthes.com/)
 
