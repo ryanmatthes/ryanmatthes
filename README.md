@@ -14,11 +14,11 @@
 
 ### 👋 About
 
-I build AI systems for a living and trading tools on the side. Ten years trading commodities and ten years of professional poker taught me the same thing: the edge is in the process, not the outcome.
+I build AI systems for a living and trading tools on the side. 20+ years in markets and ten years of professional poker taught me the same thing: the edge is in the process, not the outcome.
 
-- 🤖 **Now** · building AI systems and internal tools full-time
+- 🤖 **Now** · building AI systems and internal tools
 - 📈 **On the side** · trading my own capital with small, defined-risk positions, and the tooling to measure it
-- 🎓 **Background** · CS degree, 10 years commodity trading, professional poker 2004–2014
+- 🎓 **Background** · AS in Computer Science, 20+ years in markets, professional poker 2004–2014
 - 🛠️ **How I build** · AI-first with Claude and n8n; the language is a detail, the problem and the data are the work
 - 👯 **Open to** · collaborating on open source trading and analytics tools
 
